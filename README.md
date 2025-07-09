@@ -5,17 +5,28 @@
 
 ---
 ## About Me
+### Academics
 - 숙명여자대학교 소프트웨어융합전공 졸업 (25')
   - 소프트웨어학부 집행부; 소프트웨어융합전공 부과대 (20-21)
   - 소프트웨어학부 앱/웹 개발 학회 <APPS>
     - 20'09~21'12: 회원 (21' 전시회 출품)
     - 22'01~22'12: 회장 (22' 전시회 출품)
+### Career
+- 23'09-23'10 | (주) Wecommit 대시보드 프로젝트 초기 기획 참여
+- 24'09-24'12 | (주) Wecommit 대시보드 프로젝트 기획
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Interests
+- 🎯 좋아하는 장르: MMORPG / 시뮬레이션 / 스토리 중점
+- 🔍 현재 관심 분야: 시스템 스토리텔링
+
+---
+
+<!-- ## 🗂️ Repository Highlights
+
+---
+
+## 🧪 Prototype Demos
+
+- 📁 `prototypes/` 폴더 내에서 직접 플레이 가능한 Unity 프로토타입 포함
+- 영상/스크린샷으로 기능과 UI 시연 추가 예정-->
+
