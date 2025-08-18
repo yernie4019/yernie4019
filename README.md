@@ -11,14 +11,16 @@
 - 23.09-23.10 | (주) Wecommit 대시보드 프로젝트 초기 기획 참여
 - 24.04-24.09 | 청년취업사관학교 강북캠퍼스 게임 기획과정 1기 이수
 - 24.09-24.12 | (주) Wecommit 대시보드 프로젝트 기획
+- 24.12-25.09 | 멀티 플랫폼 메타버스 게임 기획자 부트캠프 (10회차) 이수
 
 
 ### Interests
 - 🎯 좋아하는 장르: MMORPG / 시뮬레이션 / 스토리 중점
-- 🔍 현재 관심 분야: 시스템 스토리텔링
+- 🔍 현재 관심 분야: 글 밖에서 전달하는 스토리텔링
 
 ### Links
 [![YouTube Channel](https://img.shields.io/badge/YouTube-@yernie--gameDesign-red?logo=youtube&logoColor=white)](https://www.youtube.com/@yernie-gameDesign)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yerin--ko-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerin-ko-040161293/)
 
 ---
 
