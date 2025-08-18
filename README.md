@@ -17,6 +17,9 @@
 - 🎯 좋아하는 장르: MMORPG / 시뮬레이션 / 스토리 중점
 - 🔍 현재 관심 분야: 시스템 스토리텔링
 
+### Links
+[![YouTube Channel](https://img.shields.io/badge/YouTube-@yernie--gameDesign-red?logo=youtube&logoColor=white)](https://www.youtube.com/@yernie-gameDesign)
+
 ---
 
 <!-- ## 🗂️ Repository Highlights
