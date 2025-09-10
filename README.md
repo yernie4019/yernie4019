@@ -4,12 +4,8 @@
 이 저장소는 제가 직접 참여한 프로젝트의 프로토타입, 기획서, 개발 기록 등을 정리한 공간입니다.
 상세한 기록은 **카드**와 **Pinned Repository**에서 확인하실 수 있습니다!
 <br>**빠른 이동**
-
-
-
-
-<p style="font-size:28px; font-weight:bold;"> Experience</p>
-
+<br> 여기에 각 항목 별로 이동하는 것을 넣을 예정
+# Experience
 ## 경력
 ### 근무 경험
 - **(주) Wecommit** 단기 계약 근무 (23.09-23.10,종료)
