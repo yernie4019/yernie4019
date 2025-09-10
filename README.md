@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=535877&section=header&text=GAME DESIGN PORTFOLIO&fontSize=48" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=535877&section=header&text=GAME%20DESIGN%20PORTFOLIO&fontSize=48" />
 
 안녕하세요! 게임 시스템/콘텐츠 기획자로서의 성장을 기록하고 있는 고예린입니다.  
 이 저장소는 제가 직접 참여한 프로젝트의 프로토타입, 기획서, 개발 기록 등을 정리한 공간입니다.
@@ -61,7 +61,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yerin--ko-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerin-ko-040161293/)
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=535877&section=footer&text=Thank you&fontSize=52" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=535877&section=footer&text=Thank%20you&fontSize=52" />
 
 
 <!-- ## 🗂️ Repository Highlights
