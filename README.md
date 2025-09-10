@@ -1,14 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=535877&section=header&text=GAME DESIGN PORTFOLIO&fontSize=48" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=535877&section=header&text=GAME DESIGN PORTFOLIO&fontSize=48" />
 
 안녕하세요! 게임 시스템/콘텐츠 기획자로서의 성장을 기록하고 있는 고예린입니다.  
 이 저장소는 제가 직접 참여한 프로젝트의 프로토타입, 기획서, 개발 기록 등을 정리한 공간입니다.
 상세한 기록은 **카드**와 **Pinned Repository**에서 확인하실 수 있습니다!
 <br>**빠른 이동**
 
----
 
 
-# Experience
+
+<p style="font-size:28px; font-weight:bold;"> Experience</p>
+
 ## 경력
 ### 근무 경험
 - **(주) Wecommit** 단기 계약 근무 (23.09-23.10,종료)
@@ -20,21 +21,30 @@
 ## 협업 경험
 ### 게임 기획
 이미지 클릭 시 해당 레포지토리로 이동합니다. 
-<br>[![던전런](images/Card_Prj_DGR.png)](https://github.com/yernie4019/DungeonRun-LegendOfHammer)
-[![제안서 프로젝트](images/Card_Prj_Echo.png)]()
-
+<p align="center">
+  <a href="https://github.com/yernie4019/DungeonRun-LegendOfHammer">
+    <img src="images/Card_Prj_DGR.png" width="300" alt="던전런 프로젝트"/>
+  </a>
+  <img src="images/Card_Prj_Echo.png" width="300" alt="제안서 프로젝트"/>
+</p>
 
 ## 배움
 ### 학력
-![숙명여대 졸업 (20-25) 이미지](images/Card_Grad_Major.png)
-![이화여고 졸업 (17-20) 이미지](images/Card_Grad_HighSchool.png)
+<p align="center">
+  <img src="images/Card_Grad_Major.png" width="300" alt="숙명여대 졸업 (20-25) 이미지"/>
+  <img src="images/Card_Grad_HighSchool.png" width="300" alt="이화여고 졸업 (17-20) 이미지"/>
+</p>
+
 - 20, 21 소프트웨어 학부 집행부 (소프트웨어융합전공 부과대)
 - 22 소프트웨어 학부 소속 개발 프로젝트 학회 <APPS> 회장
 
 
 ### 교육 이수
-![부트캠프 이수(24.12-25.09) 이미지](images/Card_Edu_KGA.png)
-![새싹 이수(24.06-24.09) 이미지](images/Card_Edu_SeSAC.png)
+<p align="center">
+  <img src="images/Card_Edu_KGA.png" width="300" alt="부트캠프 이수"/>
+  <img src="images/Card_Edu_SeSAC.png" width="300" alt="게임 기획부터 출시까지"/>
+</p>
+
 <!-- **24.06-24.09** | 게임 기획부터 출시까지 A to Z (354시간) 
 이수
 <br>*청년취업사관학교 강북캠퍼스 게임 기획과정 1기*
