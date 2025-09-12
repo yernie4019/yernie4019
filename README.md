@@ -9,18 +9,10 @@
 
 ⚡ **빠른 이동**
 
-<a href="#경력">
-  <img src="https://img.shields.io/badge/경력-535877?style=for-the-badge&logo=bookstack&logoColor=white" />
-</a>
-<a href="#협업-경험">
-  <img src="https://img.shields.io/badge/협업%20경험-535877?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="#배움">
-  <img src="https://img.shields.io/badge/배움-535877?style=for-the-badge&logo=openbook&logoColor=white" />
-</a>
-<a href="#links">
-  <img src="https://img.shields.io/badge/Links-535877?style=for-the-badge&logo=link&logoColor=white" />
-</a>
+[![경력](https://img.shields.io/badge/경력-535877?style=for-the-badge&logo=bookstack&logoColor=white)](#경력)
+[![협업 경험](https://img.shields.io/badge/협업%20경험-535877?style=for-the-badge&logo=github&logoColor=white)](#협업-경험)
+[![배움](https://img.shields.io/badge/배움-535877?style=for-the-badge&logo=openbook&logoColor=white)](#배움)
+[![Links](https://img.shields.io/badge/Links-535877?style=for-the-badge&logo=link&logoColor=white)](#links)
 
 </div>
 
@@ -48,20 +40,25 @@
 
 ## 배움
 ### 학력
-<p align="center">
-  <img src="images/Card_Grad_Major.png" width="300" alt="숙명여대 졸업 (20-25) 이미지"/>
-  <img src="images/Card_Grad_HighSchool.png" width="300" alt="이화여고 졸업 (17-20) 이미지"/>
-</p>
+
+<div align="center">
+
+![숙명여대 졸업 (20-25) 이미지](images/Card_Grad_Major.png) 
+![이화여고 졸업 (17-20) 이미지](images/Card_Grad_HighSchool.png)
+
+</div>
 
 - 20, 21 소프트웨어 학부 집행부 (소프트웨어융합전공 부과대)
 - 22 소프트웨어 학부 소속 개발 프로젝트 학회 <APPS> 회장
 
 
 ### 교육 이수
-<p align="center">
-  <img src="images/Card_Edu_KGA.png" width="300" alt="부트캠프 이수"/>
-  <img src="images/Card_Edu_SeSAC.png" width="300" alt="게임 기획부터 출시까지"/>
-</p>
+<div align="center">
+
+![KGA 수료](images/Card_Edu_KGA.png) 
+![새싹 수료 이미지](images/Card_Edu_SeSAC.png)
+
+</div>
 
 
 ---
