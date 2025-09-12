@@ -3,10 +3,28 @@
 
 안녕하세요! 게임 시스템/콘텐츠 기획자로서의 성장을 기록하고 있는 고예린입니다.  
 이 저장소는 제가 직접 참여한 프로젝트의 프로토타입, 기획서, 개발 기록 등을 정리한 공간입니다.
-상세한 기록은 **카드**와 **Pinned Repository**에서 확인하실 수 있습니다!
-<br>**빠른 이동**
+상세한 기록은 **카드 이미지를 클릭하시면** 확인하실 수 있습니다!
 
-<br> 여기에 각 항목 별로 이동하는 것을 넣을 예정
+<div align="center">
+
+⚡ **빠른 이동**
+
+<a href="#경력">
+  <img src="https://img.shields.io/badge/경력-535877?style=for-the-badge&logo=bookstack&logoColor=white" />
+</a>
+<a href="#협업-경험">
+  <img src="https://img.shields.io/badge/협업%20경험-535877?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#배움">
+  <img src="https://img.shields.io/badge/배움-535877?style=for-the-badge&logo=openbook&logoColor=white" />
+</a>
+<a href="#links">
+  <img src="https://img.shields.io/badge/Links-535877?style=for-the-badge&logo=link&logoColor=white" />
+</a>
+
+</div>
+
+
 # Experience
 ## 경력
 ### 근무 경험
@@ -18,12 +36,14 @@
     - IA 재설계 보조, 개발 계획 수립 보조
 ## 협업 경험
 ### 게임 기획
-이미지 클릭 시 해당 레포지토리로 이동합니다. 
+이미지 클릭 시 해당 프로젝트 설명으로 이동합니다. 
 <p align="center">
-  <a href="https://github.com/yernie4019/DungeonRun-LegendOfHammer">
+  <a href="descriptions/2025.07-08_DungeonRun.md">
     <img src="images/Card_Prj_DGR.png" width="300" alt="던전런 프로젝트"/>
   </a>
+  <a href="descriptions/2025.04-05_ECHO.md">
   <img src="images/Card_Prj_Echo.png" width="300" alt="제안서 프로젝트"/>
+  </a>
 </p>
 
 ## 배움
@@ -43,20 +63,25 @@
   <img src="images/Card_Edu_SeSAC.png" width="300" alt="게임 기획부터 출시까지"/>
 </p>
 
-<!-- **24.06-24.09** | 게임 기획부터 출시까지 A to Z (354시간) 
-이수
-<br>*청년취업사관학교 강북캠퍼스 게임 기획과정 1기*
- **24.12-25.09** | 멀티 플랫폼 메타버스 게임 기획자 부트캠프 (1368시간) 수료
- <br>*교육 기관: 경일게임IT아카데미*-->
 
 ---
-### Interests
-- 🎯 좋아하는 장르: MMORPG / 시뮬레이션 / 스토리 중점
-- 🔍 현재 관심 분야: 글 밖에서 전달하는 스토리텔링
+<!-- <div align="center">
 
-### Links
-[![YouTube Channel](https://img.shields.io/badge/YouTube-@yernie--gameDesign-red?logo=youtube&logoColor=white)](https://www.youtube.com/@yernie-gameDesign)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yerin--ko-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerin-ko-040161293/)
+### Interests
+
+🎯 좋아하는 장르: MMORPG / 시뮬레이션 / 스토리 중점 게임  
+🔍 현재 관심 분야: 글 밖에서 전달하는 스토리텔링, 생활 컨텐츠
+
+</div>-->
+
+<div align="center">
+
+### Links 
+[![YouTube Channel](https://img.shields.io/badge/YouTube-@yernie--gameDesign-red?logo=youtube&logoColor=white)](https://www.youtube.com/@yernie-gameDesign) [![LinkedIn](https://img.shields.io/badge/LinkedIn-yerin--ko-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerin-ko-040161293/)
+
+</div>
+
+
 
 ---
 
