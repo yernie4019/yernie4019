@@ -20,23 +20,22 @@
 # Experience
 ## 경력
 ### 근무 경험
-- **(주) Wecommit** 단기 계약 근무 (23.09-23.10,종료)
-  - AI 모의고사 프로젝트, 대시보드 프로젝트 기획 보조
--  **(주) Wecommit** 대시보드 프로젝트 (현 GenDoc) 기획
-    - 프로젝트 화면 설계
-    - 레거시 자료 통합 및 팀 협업 공간 세팅
-    - IA 재설계 보조, 개발 계획 수립 보조
+
+<div aling="center">
+
+![경력 카드](images/Card_Career_Wecommit.png)
+
+</div>
+
 ## 협업 경험
 ### 게임 기획
 이미지 클릭 시 해당 프로젝트 설명으로 이동합니다. 
-<p align="center">
-  <a href="descriptions/2025.07-08_DungeonRun.md">
-    <img src="images/Card_Prj_DGR.png" width="300" alt="던전런 프로젝트"/>
-  </a>
-  <a href="descriptions/2025.04-05_ECHO.md">
-  <img src="images/Card_Prj_Echo.png" width="300" alt="제안서 프로젝트"/>
-  </a>
-</p>
+<div align="center">
+  
+[![던전런 프로젝트](images/Card_Prj_DGR.png)](descriptions/2025.07-08_DungeonRun.md)
+[![제안서 프로젝트](images/Card_Prj_Echo.png)](descriptions/2025.04-05_ECHO.md)
+
+</div>
 
 ## 배움
 ### 학력
@@ -74,7 +73,10 @@
 <div align="center">
 
 ### Links 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-@yernie--gameDesign-red?logo=youtube&logoColor=white)](https://www.youtube.com/@yernie-gameDesign) [![LinkedIn](https://img.shields.io/badge/LinkedIn-yerin--ko-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerin-ko-040161293/)
+<!--[![YouTube Channel](https://img.shields.io/badge/YouTube-@yernie--gameDesign-red?logo=youtube&logoColor=white)](https://www.youtube.com/@yernie-gameDesign) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yerin--ko-535877?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerin-ko-040161293/)
+[![Email](https://img.shields.io/badge/Email-yerink.4019%40gmail.com-535877?logo=gmail&logoColor=white)](mailto:yerink.4019@gmail.com)
+
 
 </div>
 
