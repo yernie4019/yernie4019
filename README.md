@@ -29,14 +29,12 @@
 ## 협업 경험
 ### 게임 기획
 이미지 클릭 시 해당 프로젝트 설명으로 이동합니다. 
-<p align="center">
-  <a href="descriptions/2025.07-08_DungeonRun.md">
-    <img src="images/Card_Prj_DGR.png" width="300" alt="던전런 프로젝트"/>
-  </a>
-  <a href="descriptions/2025.04-05_ECHO.md">
-  <img src="images/Card_Prj_Echo.png" width="300" alt="제안서 프로젝트"/>
-  </a>
-</p>
+<div align="center">
+  
+[![던전런 프로젝트](images/Card_Prj_DGR.png)](descriptions/2025.07-08_DungeonRun.md)
+[![제안서 프로젝트](images/Card_Prj_Echo.png)](descriptions/2025.04-05_ECHO.md)
+
+</div>
 
 ## 배움
 ### 학력
@@ -74,7 +72,10 @@
 <div align="center">
 
 ### Links 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-@yernie--gameDesign-red?logo=youtube&logoColor=white)](https://www.youtube.com/@yernie-gameDesign) [![LinkedIn](https://img.shields.io/badge/LinkedIn-yerin--ko-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerin-ko-040161293/)
+<!--[![YouTube Channel](https://img.shields.io/badge/YouTube-@yernie--gameDesign-red?logo=youtube&logoColor=white)](https://www.youtube.com/@yernie-gameDesign) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yerin--ko-535877?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerin-ko-040161293/)
+[![Email](https://img.shields.io/badge/Email-yerink.4019%40gmail.com-535877?logo=gmail&logoColor=white)](mailto:yerink.4019@gmail.com)
+
 
 </div>
 
