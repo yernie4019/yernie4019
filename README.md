@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[<img src="images/Card_Career_Wecommit.png" alt="경력 카드" width="300">](#)
+[<img src="images/Card_Career_Wecommit.png" alt="경력 카드">](#)
 
 </div>
 
