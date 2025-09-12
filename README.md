@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=535877&section=header&width=2000&text=GAME DESIGN PORTFOLIO&fontSize=48" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=535877&height=250&section=header&text=GAME%20DESIGN%20PORTFOLIO&fontSize=48" />
 
 
 안녕하세요! 게임 시스템/콘텐츠 기획자로서의 성장을 기록하고 있는 고예린입니다.  
@@ -81,17 +81,5 @@
 
 </div>
 
-
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=535877&section=footer&width=2000&text=Thank you&fontSize=52" />
-
-
-<!-- ## 🗂️ Repository Highlights
-
-## 🧪 Prototype Demos
-
-- 📁 `prototypes/` 폴더 내에서 직접 플레이 가능한 Unity 프로토타입 포함
-- 영상/스크린샷으로 기능과 UI 시연 추가 예정 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=535877&section=footer&width=2000&text=Thank%20you&fontSize=52" />
 
