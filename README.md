@@ -21,7 +21,7 @@
 ## 경력
 ### 근무 경험
 
-<div aling="center">
+<div align="center">
 
 ![경력 카드](images/Card_Career_Wecommit.png)
 
