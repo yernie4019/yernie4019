@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="images/Card_Career_Wecommit.png" alt="경력 카드" />
+[<img src="images/Card_Career_Wecommit.png" alt="경력 카드" width="300">](#)
 
 </div>
 
@@ -44,8 +44,8 @@
 
 <div align="center">
 
-<img src="images/Card_Grad_Major.png" alt="숙명여대 졸업 (20-25)" width="300" />
-<img src="images/Card_Grad_HighSchool.png" alt="이화여고 졸업 (17-20)" width="300" />
+[<img src="images/Card_Grad_Major.png" alt="숙명여대 졸업 (20-25)" width="300">](#)
+[<img src="images/Card_Grad_HighSchool.png" alt="이화여고 졸업 (17-20)" width="300">](#)
 
 </div>
 
@@ -56,8 +56,8 @@
 
 <div align="center">
 
-<img src="images/Card_Edu_KGA.png" alt="KGA 수료" width="300" />
-<img src="images/Card_Edu_SeSAC.png" alt="새싹 수료" width="300" />
+[<img src="images/Card_Edu_KGA.png" alt="KGA 수료" width="300">](#)
+[<img src="images/Card_Edu_SeSAC.png" alt="새싹 수료" width="300">](#)
 
 </div>
 
