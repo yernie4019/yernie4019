@@ -57,8 +57,6 @@
 <div align="center">
 
 [<img src="images/Card_Edu_KGA.png" alt="KGA 수료" width="300">](#)
-[<img src="images/Card_Edu_SeSAC.png" alt="새싹 수료" width="300">](#)
-
 </div>
 
 ---
